@@ -162,16 +162,3 @@ footer>p {
     font-size: 70%;
   }
 }
-
-.back {
-  text-align: left;
-}
-
-#btn99 {
-  padding: 0.3em;
-  border-radius: 0.3em;
-  color: beige;
-  font-size: 1.5em;
-  background: rgb(224, 20, 139);
-  cursor: pointer;
-}
